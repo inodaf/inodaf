@@ -1,4 +1,5 @@
-### Hi, stranger 🖖
+### Hi, stranger! 🖖
+Welcome to my space. Here you can discover more about my OSS projects and random Gists. 🛰
 
 <!--
 **inodaf/inodaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
