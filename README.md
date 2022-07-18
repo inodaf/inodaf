@@ -1,6 +1,8 @@
+
+<img width="75px" src="https://user-images.githubusercontent.com/7952861/179559876-9dc4899d-3da0-41dc-9aba-a0ed34595f24.png" alt="Isac's Memoji wearing a gray sweater and waving the left hand." />
+
 ### Hi, stranger! 🖖
 Welcome to my space. Here you can discover more about my OSS projects and random Gists. 🛰
-
 <!--
 **inodaf/inodaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
